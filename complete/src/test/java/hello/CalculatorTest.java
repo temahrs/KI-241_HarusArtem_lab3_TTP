@@ -1,10 +1,7 @@
 package hello;
-
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import net.objecthunter.exp4j.ExpressionBuilder;
 
 public class CalculatorTest {
 
